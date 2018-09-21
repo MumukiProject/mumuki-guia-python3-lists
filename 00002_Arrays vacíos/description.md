@@ -8,4 +8,4 @@ Y no sólo eso, sino que además pueden contener cualquier cantidad de elementos
 let unArrayVacio = []
 ```
 
-> Probá escribir en la consola un array vacío
+> Probá escribir en la consola `unArrayVacio`
