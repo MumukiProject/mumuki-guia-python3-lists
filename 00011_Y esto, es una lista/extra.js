@@ -1,6 +1,6 @@
 var personas = ["mara", "julian"];
 
-function arraysIguales(unArray, otroArray) {
+function listasIguales(unArray, otroArray) {
     if (unArray.length != otroArray.length)
         return false;
     for (var i = 0; i < unArray.length; i++) {

@@ -1,10 +1,10 @@
 ¡Bien hecho!
 
-Si venís prestando atención a los ejemplos de consulta, habrás notado que los arrays también pueden tener elementos duplicados: `[1, 2, 1]`, `["hola", "hola"]`, etc.
+Si venís prestando atención a los ejemplos de consulta, habrás notado que las listas también pueden tener elementos duplicados: `[1, 2, 1]`, `["hola", "hola"]`, etc.
 
-Por tanto, `indexOf` en realidad devuelve la posición de la _primera aparición_ del elemento en el array. Por ejemplo:
+Por tanto, `posicion` en realidad devuelve la posición de la _primera aparición_ del elemento en la lista. Por ejemplo:
 
 ```javascript
-ム [2, 3, 3, 4].indexOf(3)
-1 //devuelve 1 porque si bien también está en la posición 2, aparece primero en la posición 1.
+ム posicion(["qué", "es", "eso", "eso", "es", "queso"], "es")
+1 //devuelve 1 porque si bien "es" también está en la posición 4, aparece primero en la posición 1.
 ```

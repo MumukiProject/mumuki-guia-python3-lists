@@ -1,20 +1,20 @@
-Otro método útil de los arrays es `indexOf`, que nos dice en que posición está un elemento dentro del array:
+Otra cosa que queremos hacer con las listas es saber en qué posición se encuentra un elemento. Para ello utilizamos la función `posicion` de la siguiente manera:
 
 ```javascript
-["a", "la", "grande", "le", "puse", "cuca"].indexOf("grande"); //devuelve 2
+posicion(["a", "la", "grande", "le", "puse", "cuca"], "grande"); //devuelve 2
 
 let diasLaborales = ["lunes", "martes", "miercoles", "jueves", "viernes"]
-diasLaborales.indexOf("lunes"); //devuelve 0
+posicion(diasLaborales, "lunes"); //devuelve 0
 ```
 
-Como ves, lo "raro" del método `indexOf` es que pareciera devolver siempre 1 menos de lo esperado. ¿Es que los creadores de JavaScript se equivocaron? :confused:
+Como ves, lo curioso de esta función es que pareciera devolver siempre uno menos de lo esperado. Por ejemplo, la palabra `"grande"` aparece tercera, no segunda; y `"lunes"` es el primer día laboral, no el cero. ¿Es que los creadores de JavaScript se equivocaron? :confused:
 
-No, se trata de que en JavaScript, al igual que en muchos lenguajes, las posiciones de los arrays arrancan en 0: el primer elemento es la posición 0, el segundo, 1, el tercero, 2, y así.
+¡No! Se trata de que en JavaScript, al igual que en muchos lenguajes, las posiciones de las listas arrancan en 0: el primer elemento está en la posición 0, el segundo en la 1, el tercero en la 2, y así.
 
-> ¿Y qué sucede si le pasás por parámetro a `indexOf` un elemento que no tiene? ¡Averigualo vos mismo!
+> ¿Y qué sucede si le pasás por parámetro a `posicion` un elemento que no tiene? ¡Averigualo vos mismo!
 >
 > Probá lo siguiente:
 >
 > ```javascript
-> diasLaborales.indexOf("osvaldo")
+> posicion(diasLaborales, "osvaldo")
 > ```

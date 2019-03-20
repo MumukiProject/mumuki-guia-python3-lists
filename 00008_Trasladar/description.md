@@ -1,15 +1,15 @@
 Bueno, ya hablamos bastante; ¡es hora de la acción :movie_camera:!
 
-> Declará un procedimiento `trasladar`, que tome dos arrays, saque el último elemento del primero y lo agregue al segundo. 
+> Declará un procedimiento `trasladar`, que tome dos listas, saque el último elemento de la primera y lo agregue a la segunda. 
 >
 > Ejemplo: 
 >
 >```javascript
-> let unArray = [1, 2, 3];
-> let otroArray = [4, 5];
+> let unaLista = [1, 2, 3];
+> let otraLista = [4, 5];
 >
-> trasladar(unArray, otroArray);
+> trasladar(unaLista, otraLista);
 >
-> unArray //debería ser [1, 2]
-> otroArray //debería ser [4, 5, 3]
+> unaLista //debería ser [1, 2]
+> otraLista //debería ser [4, 5, 3]
 >```

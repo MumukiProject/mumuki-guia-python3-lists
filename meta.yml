@@ -1,5 +1,5 @@
 ---
-name: Arrays
+name: Listas
 locale: es
 type: learning
 beta: false
@@ -18,11 +18,4 @@ order:
 - 7
 - 9
 - 13
-- 14
-- 15
-- 20
-- 16
-- 17
-- 18
-- 19
-- 12
+private: false

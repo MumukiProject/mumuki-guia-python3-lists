@@ -1,16 +1,15 @@
-Los arrays son muy útiles para contener múltiples elementos. Pero hay algo más: también podemos agregarle elementos en cualquier momento, lo cual lo resolvemos mediante el método `push`. Por ejemplo:
+Las listas son muy útiles para contener múltiples elementos. ¡Pero hay más! También podemos agregarle elementos en cualquier momento, utilizando la función `agregar`, que recibe dos parámetros: la lista y el elemento. Por ejemplo:
 
 ```javascript
 let pertenencias = ["espada", "escudo", "antorcha"];
-//pertenencias.length acá vale 3;
+//longitud(pertenencias) devuelve 3;
 
-pertenencias.push("amuleto mágico");
-//ahora pertenencias.length vale 4
+agregar(pertenencias, "amuleto mágico");
+//ahora longitud(pertenencias) devuelve 4
 ```
 
-Como vemos, `push` agrega un elemento a la lista, lo cual hace que su tamaño aumente. ¿Pero en qué parte de la lista lo agrega? ¿Al principio? ¿Al final? ¿En el medio?
+Como vemos, `agregar` suma un elemento a la lista, lo cual hace que su tamaño aumente. ¿Pero en qué parte de la lista lo agrega? ¿Al principio? ¿Al final? ¿En el medio?
 
-> Averigualo vos mismo: inspeccioná en la consola que elementos contiene `pertenencias`, agregale una `"ballesta"` y volvé a inspeccionar `pertenencias`.
+> Averigualo vos mismo: inspeccioná en la consola qué elementos contiene `pertenencias`, agregale una `"ballesta"` y volvé a inspeccionar `pertenencias`.
 >
-> Ah y, además, existe un método `pop`, que no tiene parámetros. Investigá en la consola qué hace.
-
+> Además existe un método `remover`, que sólo recibe la lista por parámetro. Investigá en la consola qué hace. :thought_balloon:
