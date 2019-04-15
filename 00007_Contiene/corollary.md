@@ -4,7 +4,7 @@ Si venís prestando atención a los ejemplos de consulta, habrás notado que las
 
 Por tanto, `posicion` en realidad devuelve la posición de la _primera aparición_ del elemento en la lista. Por ejemplo:
 
-```javascript
+```python
 ム posicion(["qué", "es", "eso", "eso", "es", "queso"], "es")
 1 //devuelve 1 porque si bien "es" también está en la posición 4, aparece primero en la posición 1.
 ```

@@ -2,7 +2,7 @@
 
 > Escribí la función `contiene` que nos diga si una lista contiene un cierto elemento.
 >
-> ```javascript
+> ```python
 > ム contiene([1, 6, 7, 6], 7)
 > true
 > ム contiene([1, 6, 7, 6], 6)

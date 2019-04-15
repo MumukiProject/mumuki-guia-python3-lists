@@ -6,7 +6,7 @@ Así que la advertencia es: ¡no te pases de índice! :warning:
 >
 > Te recordamos qué hace la función: tiene que devolver la medalla que le corresponde a los primeros puestos de una competencia.
 >
->```javascript
+>```python
 >ム medallaSegunPuesto(1)
 >"oro"
 >ム medallaSegunPuesto(2)

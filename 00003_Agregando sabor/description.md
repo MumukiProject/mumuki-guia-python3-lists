@@ -1,6 +1,6 @@
 Las listas son muy útiles para contener múltiples elementos. ¡Pero hay más! También podemos agregarle elementos en cualquier momento, utilizando la función `agregar`, que recibe dos parámetros: la lista y el elemento. Por ejemplo:
 
-```javascript
+```python
 let pertenencias = ["espada", "escudo", "antorcha"];
 //longitud(pertenencias) devuelve 3;
 

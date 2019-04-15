@@ -1,10 +1,10 @@
 Bueno, ya hablamos bastante; ¡es hora de la acción :movie_camera:!
 
-> Declará un procedimiento `trasladar`, que tome dos listas, saque el último elemento de la primera y lo agregue a la segunda. 
+> Declará un procedimiento `trasladar`, que tome dos listas, saque el último elemento de la primera y lo agregue a la segunda.
 >
-> Ejemplo: 
+> Ejemplo:
 >
->```javascript
+>```python
 > let unaLista = [1, 2, 3];
 > let otraLista = [4, 5];
 >
