@@ -3,7 +3,7 @@ Así como existe una función para averiguar en qué posición está un elemento
 Para averiguarlo podemos usar el **operador de indexación**, escribiendo después de la colección y entre corchetes `[]` la posición que queremos para averiguar:
 
 ```python
-ム mesesDelAnio[0]
+ム meses_del_anio[0]
 "enero"
 ム ["ese", "perro", "tiene", "la", "cola", "peluda"][1]
 "perro"

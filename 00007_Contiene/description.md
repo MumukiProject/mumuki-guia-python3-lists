@@ -4,11 +4,11 @@
 >
 > ```python
 > ム contiene([1, 6, 7, 6], 7)
-> true
+> True
 > ム contiene([1, 6, 7, 6], 6)
-> true
+> True
 > ム contiene([], 7)
-> false
+> False
 > ム contiene([8, 5], 7)
-> false
+> False
 > ```

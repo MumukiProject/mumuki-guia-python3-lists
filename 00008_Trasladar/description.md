@@ -5,11 +5,11 @@ Bueno, ya hablamos bastante; ¡es hora de la acción :movie_camera:!
 > Ejemplo:
 >
 >```python
-> let unaLista = [1, 2, 3];
-> let otraLista = [4, 5];
+> una_lista = [1, 2, 3]
+> otra_lista = [4, 5]
 >
-> trasladar(unaLista, otraLista);
+> trasladar(una_lista, otra_lista)
 >
-> unaLista //debería ser [1, 2]
-> otraLista //debería ser [4, 5, 3]
+> una_lista # debería ser [1, 2]
+> otra_lista # debería ser [4, 5, 3]
 >```

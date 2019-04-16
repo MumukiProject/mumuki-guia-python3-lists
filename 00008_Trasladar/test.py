@@ -1,12 +1,9 @@
-describe("", function() {
-  it("trasladar mueve el último elemento de la primera lista a la segunda", function() {
-    var unArray = [1, 2, 3];
-    var otroArray = [4, 5];
+def test_trasladar_mueve_el_último_elemento_de_la_primera_lista_a_la_segunda(self):
+  var un_array = [1, 2, 3]
+  var otro_array = [4, 5]
 
-    trasladar(unArray, otroArray);
+  trasladar(un_array, otro_array)
 
-    assert.deepEqual(unArray, [1, 2]);
-    assert.deepEqual(otroArray, [4, 5, 3]);
-  })
+  self.assertEqual(un_array, [1, 2])
+  self.assertEqual(otro_array, [4, 5, 3])
 
-})

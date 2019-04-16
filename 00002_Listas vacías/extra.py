@@ -1,1 +1,1 @@
-let unaListaVacia = [];
+un_lista_vacia = []

@@ -1,20 +1,18 @@
-describe("", () => {
-  it("contiene([1, 6, 7, 6], 7) es true", () => {
-    assert(contiene([1, 6, 7, 6], 7));
-  })
-  it("contiene([1, 6, 7, 6], 6) es true", () => {
-    assert(contiene([1, 6, 7, 6], 6));
-  })
-  it("contiene([], 7) es false", () => {
-    assert(!contiene([], 7));
-  })
-  it("contiene([8, 5], 7) es false", () => {
-    assert(!contiene([8, 5], 7));
-  })
-  it("contiene([1, 8, 5], 7) es false", () => {
-    assert(!contiene([1, 8, 5], 7));
-  })
-  it("contiene([1, 1, 1], 1) es true", () => {
-    assert(contiene([1, 1, 1], 1));
-  })
-})
+  def test_la_lista_1_6_7_6_contiene_al_7(self):
+    self.assertTrue(contiene([1, 6, 7, 6], 7))
+
+  def test_la_lista_1_6_7_6_contiene_al_6(self):
+    self.assertTrue(contiene([1, 6, 7, 6], 6))
+
+  def test_la_lista_vacia_no_contiene_al_7(self):
+    self.assertFalse(contiene([], 7))
+
+  def test_la_lista_8_5_no_contiene_al_7(self):
+    self.assertFalse(contiene([8, 5], 7))
+
+  def test_la_lista_1_8_5_no_contiene_al_7(self):
+    self.assertFalse(contiene([1, 8, 5], 7))
+
+  def test_la_lista_1_1_1_contiene_al_1(self):
+    self.assertTrue(contiene([1, 1, 1], 1))
+

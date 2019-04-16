@@ -5,7 +5,7 @@ Y no sólo eso, sino que además pueden contener cualquier cantidad de elementos
 ¿Podremos entonces tener listas vacías, es decir, que no tengan elementos? ¡Por supuesto!
 
 ```python
-let unaListaVacia = []
+un_lista_vacia = []
 ```
 
-> Probá escribir en la consola `unaListaVacia`
+> Probá escribir en la consola `un_lista_vacia`
