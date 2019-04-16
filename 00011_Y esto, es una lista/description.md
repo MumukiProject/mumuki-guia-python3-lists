@@ -6,9 +6,9 @@ Y no sólo eso, sino que además, el orden es importante. Por ejemplo, no es lo 
 
 > Probá en la consola las siguientes consultas:
 >
-> * `["hola", "mundo"] == ["mundo", "hola"])`
-> * `["hola", "mundo"] == ["hola", "mundo"])`
-> * `["hola", "mundo"] == ["hola", "todo", "el", "mundo"])`
-> * `["hola"] == ["hola", "mundo"])`
-
+> * `["hola", "mundo"] == ["mundo", "hola"]`
+> * `["hola", "mundo"] == ["hola", "mundo"]`
+> * `["hola", "mundo"] == ["hola", "todo", "el", "mundo"]`
+> * `["hola"] == ["hola", "mundo"]`
+>
 > ¿Qué conclusiones podés sacar? :thought_balloon:
