@@ -4,7 +4,7 @@ Las listas son muy útiles para contener múltiples elementos. ¡Pero hay más! 
 pertenencias = ["espada", "escudo", "antorcha"]
 # len(pertenencias) devuelve 3
 
-list.append(pertenencias, "amuleto mágico")
+list.append(pertenencias, "amuleto")
 # ahora len(pertenencias) devuelve 4
 ```
 
@@ -12,4 +12,4 @@ Como vemos, `list.append` agrega un elemento a la lista, lo cual hace que su tam
 
 > Averigualo vos mismo: inspeccioná en la consola qué elementos contiene `pertenencias`, agregale una `"ballesta"` y volvé a inspeccionar `pertenencias`.
 >
-> Además existe una función `list.remove`, que sólo recibe la lista por parámetro. Investigá en la consola qué hace. :thought_balloon:
+> Además existe una función `list.remove`, que recibe por parámetro una lista y un elemento de ella. Investigá en la consola qué hace. :eyes:
