@@ -11,4 +11,4 @@ Para averiguarlo podemos usar el **operador de indexación**, escribiendo despu�
 
 ¡Ojo! El número que le pases, formalmente llamado **índice**, debe ser menor a la longitud de la lista, o cosas malas pueden suceder. :astonished:
 
-> Probalo vos mismo en la consola: ¿qué sucede si le pedís el elemento 0 a una lista vacía? ¿O si le pedís el elemento 48 a una lista de 2 elementos?
+> Probalo vos mismo en la consola: ¿qué sucede si le pedís el elemento 0 a una lista vacía? ¿O si le pedís el elemento 48 a los `meses_del_anio`?
