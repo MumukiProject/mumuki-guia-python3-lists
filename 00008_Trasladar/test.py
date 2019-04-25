@@ -1,7 +1,7 @@
   
   def test_trasladar_mueve_el_3_de_la_primera_lista_a_la_segunda(self):
-    var un_array = [1, 2, 3]
-    var otro_array = [4, 5]
+    un_array = [1, 2, 3]
+    otro_array = [4, 5]
   
     trasladar(un_array, otro_array, 3)
   
@@ -9,8 +9,8 @@
     self.assertEqual(otro_array, [4, 5, 3])
   
   def test_trasladar_mueve_el_8_de_la_primera_lista_a_la_segunda(self):
-    var un_array = [9, 8, 7]
-    var otro_array = [4, 5]
+    un_array = [9, 8, 7]
+    otro_array = [4, 5]
   
     trasladar(un_array, otro_array, 7)
   
