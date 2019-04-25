@@ -1,3 +1,4 @@
+  
   def test_medalla_segun_puesto_1(self):
     self.assertEqual(medalla_segun_puesto(1), "oro")
 
