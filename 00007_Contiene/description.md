@@ -1,14 +1,10 @@
-¡Ahora te toca a vos!
+Bueno, parece que pasan cosas feas cuando queremos saber la posición de un elemento que no está en la lista. Así que para saber si un elemento pertenece o no, alcanzaría con ver si Python lanza un error :boom:, ¿no?
 
-> Escribí la función `contiene` que nos diga si una lista contiene un cierto elemento.
+Tenemos buenas noticias :newspaper:, ¡Python tiene una manera más fácil de hacer esto!
+
+> Probá en la consola lo siguiente:
 >
-> ```python
-> ム contiene([1, 6, 7, 6], 7)
-> True
-> ム contiene([1, 6, 7, 6], 6)
-> True
-> ム contiene([], 7)
-> False
-> ム contiene([8, 5], 7)
-> False
-> ```
+>* `ム 7 in [1, 6, 7, 6]`
+>* `ム 6 in [1, 6, 7, 6]`
+>* `ム 7 in []`
+>* `ム 7 in [8, 5]`
