@@ -1,5 +1,3 @@
-  
-  def bla(self):
-    self.assertTrue(True)
 
-    
+  def test_description_example(self):
+    self.assertTrue(True)
