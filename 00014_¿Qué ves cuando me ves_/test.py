@@ -1,5 +1,5 @@
-
-  def stranger_things_no_es_una_serie_recomendable(self):
+  
+  def bla(self):
     self.assertTrue(True)
     
     
