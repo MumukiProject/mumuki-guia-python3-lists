@@ -1,5 +1,6 @@
-¿Por qué importa el orden en que pongamos las expresiones?
+¿Por qué tuvimos que poner las expresiones en ese orden específico?
 
-Recordemos un poco lo que vimos en la lección de lógica booleana. Para que el operador `or` nos de `True` solo basta con que una de las condiciones sea verdadera. Por lo tanto: si preguntamos primero por la posición de la serie en el ranking, y la serie no está en la lista, nuestro código explota. :boom:
+* Si preguntábamos primero por la posición de la serie en el ranking, y la serie no estaba en la lista, nuestro código iba a explotar. :boom:
+* En cambio, como lo hicimos, si la serie no está en el ranking (`not serie in ranking`) no hace falta preguntar su posición, porque ya sabemos que toda esa expresión es `True`.
 
-Si en cambio preguntamos si la serie es parte del ranking primero, solo vamos a preguntar por su posición cuando sabemos que está en la lista (porque `not serie in ranking` dio `False`). :open_mouth:
+Recordemos que para que el operador `or` nos devuelva `True` alcanza con que una de las condiciones sea verdadera. Si la primera es verdadera, ¿para qué va a preguntar por la segunda? :sweat_smile:
