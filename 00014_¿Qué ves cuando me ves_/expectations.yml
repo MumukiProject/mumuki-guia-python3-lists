@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: serie_no_recomendable
+  inspection: Uses:in
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: serie_no_recomendable
+  inspection: Uses:list.index

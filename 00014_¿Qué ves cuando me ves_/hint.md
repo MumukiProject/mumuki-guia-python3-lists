@@ -1,0 +1,1 @@
+Recordá que las posiciones en las listas comienzan en 0. :wink:
