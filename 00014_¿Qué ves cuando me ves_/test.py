@@ -5,7 +5,7 @@
   def el_marginal_no_es_una_serie_recomendable(self):
     self.assertTrue(serie_no_recomendable("El marginal"))
     
-  def 24_no_es_una_serie_recomendable(self):
+  def veinticuatro_no_es_una_serie_recomendable(self):
     self.assertTrue(serie_no_recomendable("24"))
     
   def breaking_bad_es_una_serie_recomendable(self):
