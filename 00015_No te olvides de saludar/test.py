@@ -12,4 +12,4 @@ def test_saludar_deberia_imprimir_los_saludos_de_tres_personas(self):
   self.assertEqual(out, "hola Graciela\nhola Ana\nhola Tito\n")
 
 def test_saludar_no_deberia_retornar_nada(self):
-  self.assertTrue(versos_martin_fierro() == None)
+  self.assertTrue(saludar(["Ernesto"] == None)
