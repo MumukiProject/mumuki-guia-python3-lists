@@ -16,7 +16,7 @@ Si teníamos $500 en nuestra billetera, después del `for` nos van a quedar $303
 
 > Completá la función `saludar` que recibe una lista de personas e imprime un saludo para cada una de ellas.
 >
-> ``` javascript
+> ``` python
 ム saludar(["Don Pepito", "Don Jose"])
 hola Don Pepito
 hola Don Jose
