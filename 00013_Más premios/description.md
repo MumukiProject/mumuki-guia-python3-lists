@@ -14,5 +14,5 @@ Si le pedís un elemento en una posición igual o mayor al tamaño de la lista, 
 >ム medalla_segun_puesto(4)
 >"nada"
 >ム medalla_segun_puesto(5)
->"nada"
+>"nada" 
 ```
