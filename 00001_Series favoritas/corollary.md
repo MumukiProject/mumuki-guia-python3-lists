@@ -1,0 +1,1 @@
+¡Bien! Acabamos de ver 4 listas diferentes, con cantidades de _elementos_ diferentes. Pero, ¿notaste particular algo en la última lista? ¿Cuántos elementos hay? ¿Uno o dos?
