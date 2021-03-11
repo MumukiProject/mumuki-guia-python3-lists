@@ -1,4 +1,4 @@
-¡Sí, se puede tener listas vacías! y inicializan como las otras:
+¡Sí, se puede tener listas vacías! y se inicializan como las que vimos hasta ahora:
 
 ```python
 un_lista_vacia = []
