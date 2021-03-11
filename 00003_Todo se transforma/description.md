@@ -14,4 +14,5 @@ Como vemos, `list.append` agrega un elemento a la lista, lo cual hace que su tam
 > Averigualo vos: inspeccioná en la consola qué elementos contiene `libros`, agregale `"Fundación"` y volvé a inspeccionar `libros`.
 >
 > Además existe una función `list.remove`, que recibe por parámetro una lista y un elemento de ella. Investigá en la consola qué hace. :eyes:
->Cuando termines, escribí listo()
+>
+>Cuando termines, escribí `listo()`.
