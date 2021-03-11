@@ -1,10 +1,11 @@
 Otra cosa que queremos hacer con las listas es saber en qué posición se encuentra un elemento. Para ello utilizamos la función `list.index` de la siguiente manera:
 
 ```python
-list.index(["a", "la", "grande", "le", "puse", "cuca"], "grande") # devuelve 2
-
-dias_laborales = ["lunes", "martes", "miercoles", "jueves", "viernes"]
-list.index(dias_laborales, "lunes") # devuelve 0
+ム list.index(["a", "la", "grande", "le", "puse", "cuca"], "grande")
+2
+ム dias_laborales = ["lunes", "martes", "miercoles", "jueves", "viernes"]
+ムlist.index(dias_laborales, "lunes")
+0
 ```
 
 Como ves, lo curioso de esta función es que pareciera devolver siempre uno menos de lo esperado. Por ejemplo, la palabra `"grande"` aparece tercera, no segunda; y `"lunes"` es el primer día laboral, no el cero. ¿Quienes crearon Python se equivocaron? :confused:
