@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: serie_no_recomendable
-  inspection: Not:UsesIf
+  binding: "*"
+  inspection: DeclaresFunction:serie_no_recomendable
