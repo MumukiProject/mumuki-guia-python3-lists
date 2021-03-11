@@ -1,1 +1,0 @@
-pertenencias = ["espada", "escudo", "antorcha"]
