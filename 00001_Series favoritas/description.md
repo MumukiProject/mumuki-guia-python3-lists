@@ -9,10 +9,11 @@ Como ves, para representar a un conjunto de strings, colocamos todos esos string
 
 > Probá en la consola las siguientes consultas:
 >
-> * `series_favoritas_de_ana`
-> * `series_favoritas_de_hector`
-> * `["hola","mundo!"]`
-> * `["hola","hola"]`
->
+``` python
+ム series_favoritas_de_ana
+ム series_favoritas_de_hector
+ム ["hola","mundo!"]
+ム ["hola","hola"]
+```
 > Mirá cada uno de los resultados y contá cuántos strings hay en cada lista 
 
