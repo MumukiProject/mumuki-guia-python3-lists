@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
   value: listo()
-name: Enésimo elemento
+name: "¡No te pases!"
