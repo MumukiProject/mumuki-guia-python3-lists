@@ -4,6 +4,8 @@ Empecemos por lo fácil: saber cuántos elementos hay en la lista. Esto lo podem
 
 > Realizá las siguientes consultas en la consola:
 >
-> * `len([])`
-> * `len(numeros_de_loteria)`
-> * `len([4, 3])`
+``` python
+ム len([])
+ム len([4, 3])
+ム len(numeros_de_loteria)
+```
