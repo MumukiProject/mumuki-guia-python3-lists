@@ -2,10 +2,10 @@ Las listas son muy útiles para contener múltiples elementos. ¡Pero hay más! 
 
 ```python
 ム discos = ["Serú Girán", "Artaud", "Almendra", "Quebrado"]
-ム len(pertenencias)
+ム len(discos)
 4
-ム list.append(pertenencias, "Vida")
-ム len(pertenencias)
+ム list.append(discos, "Vida")
+ム len(discos)
 5
 ```
 
