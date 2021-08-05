@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: medalla_segun_puesto
-  inspection: Declares
+  binding: "*"
+  inspection: Declares:medalla_segun_puesto
