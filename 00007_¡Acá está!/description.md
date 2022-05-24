@@ -4,10 +4,19 @@ Tenemos buenas noticias :newspaper:, ¡Python tiene una manera más fácil de ha
 
 > Probá en la consola lo siguiente:
 >
-```python
-ム 7 in [1, 6, 7, 6]
-ム 6 in [1, 6, 7, 6]
-ム 7 in [8, 5]
-ム 7 in []
+>```python
+ム7 in [1, 6, 7, 6]
+```
+>
+>```python
+ム6 in [1, 6, 7, 6]
+```
+>
+>```python
+ム7 in [8, 5]
+```
+>
+>```python
+ム7 in []
 ```
 
