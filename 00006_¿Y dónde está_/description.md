@@ -17,5 +17,5 @@ Como ves, lo curioso de esta función es que pareciera devolver siempre uno meno
 > Probá lo siguiente:
 >
 > ```python
-> ム list.index(dias_laborales, "osvaldo")
+> ムlist.index(dias_laborales, "osvaldo")
 > ```

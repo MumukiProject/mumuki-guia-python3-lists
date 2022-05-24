@@ -3,17 +3,17 @@ Pero, pero, ¿sólo podemos crear listas de strings? ¿Y si quiero, por ejemplo,
 > Probá en la consola las siguientes consultas y mirá qué elementos tiene cada lista:
 >
 >``` python
-ム numeros_de_loteria
+ムnumeros_de_loteria
 ```
 >
 > ``` python
-ム salio_cara
+ムsalio_cara
 ```
 >
 > ``` python
-ム tiradas_del_dado
+ムtiradas_del_dado
 ```
 >
 > ``` python
-ム lista_de_listas
+ムlista_de_listas
 ```

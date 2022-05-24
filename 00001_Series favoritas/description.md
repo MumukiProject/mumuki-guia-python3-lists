@@ -10,19 +10,19 @@ Como ves, para representar a un conjunto de strings, colocamos todos esos string
 > Probá en la consola las siguientes consultas:
 >
 >``` python
-ム series_favoritas_de_ana
+ムseries_favoritas_de_ana
 ```
 >
 >``` python
-ム series_favoritas_de_hector
+ムseries_favoritas_de_hector
 ```
 >
 >``` python
-ム ["hola","mundo!"]
+ム["hola","mundo!"]
 ```
 >
 >``` python
-ム ["hola","hola"]
+ム["hola","hola"]
 ```
 > Mirá cada uno de los resultados y contá cuántos strings hay en cada lista 
 
