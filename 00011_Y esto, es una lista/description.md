@@ -6,11 +6,19 @@ Y no sólo eso, sino que además, el orden es importante. Por ejemplo, no es lo 
 
 > Probá en la consola las siguientes consultas:
 >
-``` python
+> ``` python
 ム ["hola", "mundo"] == ["mundo", "hola"]
+```
+>
+> ``` python
 ム ["hola", "mundo"] == ["hola", "todo", "el", "mundo"]
+```
+>
+> ``` python
 ム ["hola"] == ["hola", "mundo"]
+```
+>
+> ``` python
 ム ["hola", "mundo"] == ["hola", "mundo"]
 ```
-
 > ¿Qué conclusiones podés sacar? :thought_balloon:
