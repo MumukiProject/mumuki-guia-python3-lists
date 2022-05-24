@@ -4,9 +4,18 @@ Empecemos por lo fácil: ¿te acordás de `len`? También funciona con listas.
 
 > Realizá las siguientes consultas en la consola y fijate que hace:
 >
-``` python
-ム len([])
-ム len([4, 3])
-ム len([[1,2],[8],[14, 87]])
-ム len(numeros_de_loteria)
+>``` python
+ムlen([])
+```
+>
+>``` python
+ムlen([4, 3])
+```
+>
+>``` python
+ムlen([[1,2],[8],[14, 87]])
+```
+>
+>``` python
+ムlen(numeros_de_loteria)
 ```
