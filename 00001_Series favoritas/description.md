@@ -1,8 +1,8 @@
 Supongamos que queremos representar al conjunto de nuestras series favoritas. ¿Cómo podríamos hacerlo?
 
 ```python
-series_favoritas_de_ana = ["Black Mirror", "Breaking Bad", "Recordando el Show de Alejandro Molina", "En Terapia", "Gambito de Dama"]
-series_favoritas_de_hector = ["Game of Thrones", "Bojack Horseman", "Attack on Titan"]
+series_favoritas_de_ana = ["Game of Thrones", "Bojack Horseman", "Attack on Titan"]
+series_favoritas_de_hector = ["Black Mirror", "Breaking Bad", "Recordando el Show de Alejandro Molina", "En Terapia", "Gambito de Dama"]
 ```
 
 Como ves, para representar a un conjunto de strings, colocamos todos esos strings que nos interesan, entre corchetes (`[` y `]`) separados por comas. Fácil, ¿no?
