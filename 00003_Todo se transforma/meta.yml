@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "¡Muy bien!"
+  output: "'¡Muy bien!'"
 name: Todo se transforma
