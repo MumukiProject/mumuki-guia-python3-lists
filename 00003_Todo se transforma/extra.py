@@ -1,4 +1,8 @@
 libros = ["Ensayo sobre la ceguera", "Socorro", "Mi planta naranja lima"]
 
 def listo():
-  pass
+  if "Fundación" in libros:
+    return "¡Muy bien!"
+  else:
+    return "No te olvides de agregar 'Fundación' a la lista de libros"
+  
