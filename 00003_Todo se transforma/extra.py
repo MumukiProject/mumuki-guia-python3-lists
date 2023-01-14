@@ -4,5 +4,5 @@ def listo():
   if "Fundación" in libros:
     return "¡Muy bien!"
   else:
-    raise RuntimeError("No te olvides de agregar 'Fundación' a la lista de libros")
+    raise RuntimeError("¡No te olvides de agregar 'Fundación' a la lista de libros!")
   
