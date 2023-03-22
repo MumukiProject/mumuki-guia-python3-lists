@@ -1,6 +1,6 @@
 ---
-name: Listas
-locale: es
+name: Lists
+locale: en
 type: learning
 beta: false
 teacher_info: ''
@@ -19,4 +19,4 @@ order:
 - 14
 - 9
 - 13
-private: false
+private: true
