@@ -11,5 +11,5 @@ progressive_expectations: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "'¡Muy bien!'"
-name: Todo se transforma
+  output: "'Very well!'"
+name: Ch-ch-ch-changes!

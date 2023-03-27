@@ -1,1 +1,0 @@
-Esto quiere decir que las listas son mutables, es decir, se pueden modificar. :relieved:
