@@ -12,4 +12,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: "[]"
-name: "¿Medio llena o medio vacía?"
+name: Half empty or half full?
