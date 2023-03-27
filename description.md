@@ -1,3 +1,3 @@
-La programación no sería tan divertida y poderosa si sólo pudieramos trabajar con una cosa por vez: muchas veces no vamos a querer simplemente operar un _string_, un booleano o un número, sino varios a la vez. 
+Programming wouldn't be as fun and powerful if we could only work with one thing at a time:  we don't want to work with just one _string_, boolean, or number, but with several at once.
 
-¡Llegó entonces el momento de aprender a tratar conjuntos de cosas! Presentamos a... ¡las listas! :grin:
+It's time to learn how to deal with groups of things! Here they're... the lists! :grin:

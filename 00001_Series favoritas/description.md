@@ -1,28 +1,27 @@
-Supongamos que queremos representar al conjunto de nuestras series favoritas. ¿Cómo podríamos hacerlo?
+Suppose we want to represent the set of our favorite series. How can we do that?
 
 ```python
-series_favoritas_de_ana = ["Strappare lungo i bordi", "Bojack Horseman", "Attack on Titan"]
-series_favoritas_de_hector = ["Black Mirror", "Intimidad", "Recordando el Show de Alejandro Molina", "Gambito de Dama"]
+ana_favorite_series = ["Strappare lungo i bordi", "Bojack Horseman", "Attack on Titan"]
+hector_favorite_series  = ["Black Mirror", "Breaking Bad", "3%", "The Queen's Gambit"]
 ```
 
-Como ves, para representar a un conjunto de strings, colocamos todos esos strings que nos interesan, entre corchetes (`[` y `]`) separados por comas. Fácil, ¿no?
+As you can see, to represent a group of strings, we place all them between square brackets (`[` and `]`) separated by commas. Easy, right?
 
-> Probá en la consola las siguientes consultas:
+> Try the following expressions in the console:
 >
 >``` python
-ムseries_favoritas_de_ana
+ムana_favorite_series
 ```
 >
 >``` python
-ムseries_favoritas_de_hector
+ムhector_favorite_series
 ```
 >
 >``` python
-ム["hola","mundo!"]
+ム["hello", "world!"]
 ```
 >
 >``` python
-ム["hola","hola"]
+ム["hello", "hello"]
 ```
-> Mirá cada uno de los resultados y contá cuántos strings hay en cada lista 
-
+> Look at each of the results and count how many strings are in each list

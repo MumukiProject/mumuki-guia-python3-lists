@@ -11,5 +11,5 @@ progressive_expectations: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "['hola', 'hola']"
+  output: "['hello', 'hello']"
 name: Series favoritas
