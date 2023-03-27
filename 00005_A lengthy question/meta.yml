@@ -12,4 +12,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: '6'
-name: "¿Cuántos elementos tenés?"
+name: A lengthy question
