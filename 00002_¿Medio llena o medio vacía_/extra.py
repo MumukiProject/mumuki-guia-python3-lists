@@ -1,1 +1,1 @@
-una_lista_vacia = []
+an_empty_list = []

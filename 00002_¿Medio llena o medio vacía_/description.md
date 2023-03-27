@@ -1,7 +1,7 @@
-Genial, ¡parece que una lista puede contener cualquier tipo de elemento! Podemos tener listas de booleanos, de números, de strings, de listas...
+Cool, it looks like a list can contain any type of item! We can have lists of booleans, numbers, strings, lists...
 
-Y no sólo eso, sino que además pueden contener cualquier cantidad de elementos: uno, dos, quince, ¡cientos! :flushed:
+And not only that, but they can also contain any number of elements: one, two, fifteen, a hundred! :flushed:
 
-¿Podremos entonces tener listas vacías, es decir, que no tengan elementos? :face_with_monocle:
+Could we then also have empty lists, that is, a list that contains no elements? :face_with_monocle:
 
-> Fijate en la consola escribiendo `una_lista_vacia`.
+> Check it at the console by entering `an_empty_list`.
