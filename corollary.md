@@ -1,5 +1,5 @@
-¡Felicitaciones! :clap:
+Congratulations! :clap:
 
-Acabas de conocer una estructura de datos que te permite agruparlos: ¡la lista! :grin:
+You have just met a _data structure_ that allows you to group data: the list! :grin:
 
-También aprendiste qué datos puede tener dentro, cómo agregarle o sacarle elementos, conocer sus posiciones, obtener su longitud y los elementos por posición. :raised_hands:
+You also learned what data it can contain, how to add or remove elements from it, know their positions, get its length and the elements by position. :raised_hands:
