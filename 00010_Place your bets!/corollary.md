@@ -3,5 +3,5 @@ As you can see, it's possible to represent lists of numbers or booleans in the s
 ```python
 lottery_numbers = [2, 11, 17, 32, 36, 39]
 die_rolls = [1, 6, 6, 2, 2, 4]
-coin_flips = [False, False, True, False]
+was_heads = [False, False, True, False]
 ```

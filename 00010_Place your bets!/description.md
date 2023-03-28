@@ -7,7 +7,7 @@ But can we only create lists of strings? What if you want to represent, say, las
 ```
 >
 > ``` python
-ムcoin_flips
+ムwas_heads
 ```
 >
 > ``` python
