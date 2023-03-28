@@ -11,4 +11,4 @@ progressive_expectations: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_fails
-name: "¿Y dónde está?"
+name: Peekaboo!
