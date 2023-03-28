@@ -1,0 +1,1 @@
+:snake: Python is quite consistent! :clap: It throws an `IndexError: list index out of range` when we try to access an index that is not in the list, but also when we want to access an element in a position that is out of bounds.
