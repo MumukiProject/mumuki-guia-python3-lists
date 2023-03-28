@@ -9,7 +9,7 @@ Lists are really useful for treating multiple items as a whole. But there is mor
 5
 ```
 
-As we see, `list.append` adds an element to the list, which increases its size. But where in the list do you add it? At first? In the end? In the middle? :thinking:
+As we see, `list.append` adds an element to the list, which increases its size. But where in the list is it added? At first? In the end? In the middle? :thinking:
 
 > Find out for yourself: inspect in the console what elements `books` contains, add `"Insomnia"` to it and inspect `books` again.
 >
