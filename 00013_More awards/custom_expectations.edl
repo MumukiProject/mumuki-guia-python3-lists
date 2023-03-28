@@ -1,0 +1,2 @@
+expectation "There is no need to use more than one `if` in this challenge.":
+  count(uses if) <= 1;

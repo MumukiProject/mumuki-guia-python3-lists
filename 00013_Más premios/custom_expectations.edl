@@ -1,2 +1,0 @@
-expectation "No hace falta usar más de un `if` en esta solución.":
-  count(uses if) <= 1;
