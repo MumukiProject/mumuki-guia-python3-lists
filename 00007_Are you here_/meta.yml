@@ -12,4 +12,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
   value: 7 in []
-name: "¡Acá está!"
+name: Are you here?
