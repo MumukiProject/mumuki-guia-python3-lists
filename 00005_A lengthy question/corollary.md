@@ -7,7 +7,7 @@ And like when counting strings' characters, it doesn't care if the items are dis
  >``` python
 ムlen([14, 98, 56, 78])
 4
-ムlen([4, 4, 5. 4])
+ムlen([4, 4, 5, 4])
 4
 ```
 
