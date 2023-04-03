@@ -12,7 +12,7 @@ Another thing we want to do with lists is to find out the position at the first 
 0
 ```
 
-As you can see, the curious thing about this function is that it seems to always return one less than expected. For example, the word `"call"` appears second, not first; and `"Monday"` is the first business day, not zero. :bug: Is it a bug from Python creators? :confused:
+As you can see, the curious thing about this function is that it seems to always return one less than expected. For example, the word `"call"` appears second, not first; and `"Monday"` is the first business day, not zero :confused:. Is it a bug from Python creators? :bug: 
 
 Nope! :sweat_smile: In Python, as in many other languages, list _indexes_ start at 0: the first element is at position 0, the second at position 1, the third at position 2, and so on.
 
