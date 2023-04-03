@@ -2,4 +2,16 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresProcedure:transfer
+  inspection: Declares:transfer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity2:transfer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: transfer
+  inspection: Not:Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: transfer
+  inspection: Calls:append
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: transfer
+  inspection: Calls:remove
