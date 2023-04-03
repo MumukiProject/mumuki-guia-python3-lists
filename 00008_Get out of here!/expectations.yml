@@ -5,7 +5,7 @@ expectations:
   inspection: Declares:transfer
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity2:transfer
+  inspection: DeclaresComputationWithArity3:transfer
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: transfer
   inspection: Not:Returns
