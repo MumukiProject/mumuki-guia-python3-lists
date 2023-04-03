@@ -11,10 +11,10 @@ expectations:
   inspection: Not:Returns
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: transfer
-  inspection: Calls:append
+  inspection: Calls:remove
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: transfer
-  inspection: Calls:remove
+  inspection: Calls:append
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Not:SourceContains:global
