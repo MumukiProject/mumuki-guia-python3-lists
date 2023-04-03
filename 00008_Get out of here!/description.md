@@ -5,11 +5,11 @@ Well, too much talk; it's time for action! :movie_camera:
 > Example:
 >
 >```python
-> a_list = [1, 2, 3]
-> another_list = [4, 5]
->
-> transfer(a_list, another_list, 3)
->
-> a_list # should be [1, 2]
-> another_list # should be [4, 5, 3]
+> ム a_list = [1, 2, 3]
+> ム another_list = [4, 5]
+> ム transfer(a_list, another_list, 3)
+> ム a_list 
+> [1, 2]
+> ム another_list
+> [4, 5, 3]
 >```
