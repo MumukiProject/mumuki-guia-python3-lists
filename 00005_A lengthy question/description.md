@@ -2,7 +2,7 @@ We already know what things we can represent with lists, and how to do it. But w
 
 Let's start with the easy: do you remember `len`? It also works with lists.
 
-> Test the following expressions in the console and see what it does. Can you draw any conclusions:
+> Test the following expressions in the console and see what it does. Can you draw any conclusions?
 >
 >``` python
 len([])
