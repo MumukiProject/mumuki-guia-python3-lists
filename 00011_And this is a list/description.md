@@ -1,4 +1,4 @@
-We have just seen how easily we can represent groups of things. By using `[]`, we have a simple way in Python to tie them together into lists.
+We have just seen how easily we can represent groups of things. By using `[]`, we have a simple way in Python to tie elements together into lists.
 
 ♾️️ Is there a maximum number of elements? No, there is no limit! 🏗️ List are a _data structure_ that can have any number of items.
 
