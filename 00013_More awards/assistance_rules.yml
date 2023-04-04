@@ -5,5 +5,6 @@ rules:
     these_tests_failed:
     - Medals are not shifted
   then: 'your medals are shifted! You are returning `"silver"` for the first place
-    :first_place: and `"bronze"` for the second :second_place:. Don''t forget that
-    indexes in Python start at `0`, not `1`'
+    :first_place:  (instead of `"gold"`) and `"bronze"` for the second :second_place:
+    (instead of `"silver"`). Don''t forget that indexes in Python start at `0`, not
+    `1`'
