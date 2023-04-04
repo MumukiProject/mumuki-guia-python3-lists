@@ -1,0 +1,7 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    error_contains: is not in list
+  then: 'don''t forget to order your conditions properly. When expressions may throw
+    an error, `A or B` might  not be the same as `B or A` :wink:'
