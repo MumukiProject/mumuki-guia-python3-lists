@@ -12,7 +12,7 @@ We've initialized a list with the top 10 most watched series on television...
 
 ```python
 ム not_recommendable("Black mirror")
-False # it is top-5 show!
+False # it is a top-5 show!
 ```
 
 
