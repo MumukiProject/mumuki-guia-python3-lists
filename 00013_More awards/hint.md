@@ -1,1 +1,1 @@
-How can a list be useful here? Think that the medal a person receives is _directly related_ to the position at which they got in the competition :thought_balloon:
+How can a list be useful here? Think that the medal a person receives is _directly related_ to the position at which they got in the competition.

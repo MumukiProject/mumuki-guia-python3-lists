@@ -1,8 +1,8 @@
 As we just learned, accessing an element at a position equal to or greater than the size of the list will produce an `IndexError: list index out of range` error. So be careful, do not go too far! :warning:
 
-> Here's our final challenge: define the `medal_for` function again - do you remember it from previous lessons? -, but this time use one `if` at most. Maybe now lists can help us. :wink:
+> 🏆 Here's our final challenge: define the `medal_for` function again - do you remember it from previous lessons? -, but this time use one `if` at most. Maybe now lists can help us.
 >
-> We remind you what `medal_for` does: it returns the medal that corresponds to the first places in a competition.
+> :thought_balloon: We remind you what `medal_for` does: it returns the medal that corresponds to the first places in a competition.
 >
 >```python
 >ムmedal_for(1)
