@@ -19,4 +19,17 @@
 
   def test_medal_for_83(self):
     self.assertEqual(medal_for(83), "nothing")
+    
+  def test_medals_are_not_shifted(self):
+    try: 
+      results = [
+        medal_for(1),
+        medal_for(2),
+      ]
+    except Exception:
+      results = None
+    
+    self.assertTrue(
+      results != ["silver", "bronze"], 
+      "It looks like all your medals are shifted")    
 
